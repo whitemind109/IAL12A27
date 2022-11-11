@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
+
+    <channel>
+
+        <title>WinSparkle Test Appcast</title>
+
+        <description>Most recent updates to WinSparkle Test</description>
+
+        <language>en</language>
+
+        <item>
+
+            <title>Version 22.11.110</title>
+
+            <sparkle:releaseNotesLink> https://github.com/whitemind109/IAL12A27/blob/main/release_notes.html </sparkle:releaseNotesLink>
+
+            <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
+
+            <enclosure url="https://github.com/whitemind109/IAL12A27/blob/main/interfaceautologin.exe" sparkle:dsaSignature="MEYCIQCxquLvGCBqsNXa9RKtvW1R4z+0UsyDfnyHUZVIanUqQIhAJ8v4n0vCuC
+3HJuv3ybiaBvk7sVDV6rBSsvjt9MHsV4"
+
+            sparkle:version="22.11.110"
+
+            length="0"
+
+            type="application/octet-stream" />
+
+        </item>
+
+    </channel>
+
+
+</rss>
