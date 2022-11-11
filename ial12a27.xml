@@ -6,6 +6,8 @@
     <channel>
 
         <title>WinSparkle Test Appcast</title>
+        
+        <link>https://github.com/whitemind109/IAL12A27/blob/main/ial12a27.xml</link>
 
         <description>Most recent updates to WinSparkle Test</description>
 
